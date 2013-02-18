@@ -54,7 +54,7 @@ inoremap <Up> <NOP>
 inoremap <Down> <NOP>
 inoremap <Left> <NOP>
 inoremap <Right> <NOP>
-vnoremap <Up> <NOP>
-vnoremap <Down> <NOP>
-vnoremap <Left> <NOP>
-vnoremap <Right> <NOP>
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
